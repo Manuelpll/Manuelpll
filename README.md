@@ -1,3 +1,5 @@
+### Presentation of my self
+
 Hello, my name is Manuel
 
 
@@ -12,6 +14,9 @@ I am currently learning to program in java and also some python.
 
 To contact me send me an email to this gmail:
 
-mparrallanson@gmail.com
+ mparrallanson@gmail.com 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manuelpll&show_icons=true&theme=tokyonight)
+
+#  The languages that I use in my repositories
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Manuelpll&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
